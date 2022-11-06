@@ -1,0 +1,52 @@
+#navbarNavAltMarkup {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.myVideo  {
+	/*width: 1920px;
+	height: 1080px;*/
+	width: 1792px;
+	height: 1008px;
+
+}
+
+ul {
+	float:right;
+}
+
+
+.form_p {
+            display: inline-block;
+            text-align: left;
+            margin: 0 50px 0 0;
+        }
+
+#footer-left {
+	display: inline-block;
+	float: left;
+	margin: 0 0 50 50;
+	font-size: 12;
+}
+
+#footer-right {
+	height: 50px;
+}
+
+.navbar-brand {
+	margin: 18 0 18 50;
+}
+
+.Logo--text {
+	margin-left: 15;
+}
+
+.nav-link {
+	font-weight: bold;
+	font-size: 14;
+	margin: 0 10 0 10;
+}
+
+#navbarNavAltMarkup {
+	margin-right: 50;
+}
